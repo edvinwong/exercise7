@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484555936820",
+    "project_id": "fcm-exercise7",
+    "storage_bucket": "fcm-exercise7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484555936820:android:e192a464abc82e886fa661",
+        "android_client_info": {
+          "package_name": "com.example.exercise7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484555936820-m97s6oqsthhf7oavkdl4i4hi0n1jdcp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOGJv3AHicrk8EJ2mxcFqvF2wx2GOp_VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484555936820-m97s6oqsthhf7oavkdl4i4hi0n1jdcp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
